@@ -1,6 +1,6 @@
 # Self Driving Car - Perception Drive
 
-• Based on NVIDIA Jetson Nano, TensorRT, DNN, OpenCV, Python 
+• Based on NVIDIA Jetson Nano, TensorRT, OpenCV, Python 
 
 • Real-Time Traffic detection.  
 
