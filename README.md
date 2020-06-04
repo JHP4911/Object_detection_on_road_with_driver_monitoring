@@ -15,7 +15,7 @@
 
 ## Files inside this Repository
 1 - objects_detection.py
-> Detects objects on a live camera feed. It uses  SSD-Mobilenet-v2 model for 91-class detection.based on TensorRT on NVIDIA Jetson Nano. [Coding Your Own Object Detection Program](https://github.com/dusty-nv/jetson-inference/blob/master/docs/detectnet-example-2.md)
+> Detects objects on a live camera feed. It uses  SSD-Mobilenet-v2 model for 91-class detection.based on TensorRT on NVIDIA Jetson Nano.
 
 2 - GUI_output.py
 > It shows the failures, number and type of objects detected during the drive on a Graphical user interface.
